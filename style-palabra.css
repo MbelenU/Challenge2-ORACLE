@@ -1,0 +1,57 @@
+body {
+    background-color: #e3eee3;
+    margin: 0px;
+}
+
+
+
+.logo{
+    padding: 1rem;
+    float: left;
+    position: absolute;
+    top: 1rem;
+    left: 1rem;
+}
+
+.entradaTexto{
+    background-color: #4a4063;
+    margin-right: 5rem;
+    border: solid #aaa;
+    color: rgb(15, 83, 228);
+    padding: 6rem;
+    margin-top: 6rem;
+    margin-left: 30rem;
+}
+
+.entradaTexto:hover{
+    border: #4a4063;
+}
+
+.limite{
+    font-size: small;
+    margin-left: 30rem;
+}
+
+#boton1{
+    background-color: #DA6B33;
+    width: 15rem;
+    padding: 1rem;
+    color: rgb(253, 252, 252);
+    border-color: #DA6B33;
+    text-align: center;
+    margin-top: 1rem; 
+    border-radius: 1rem;
+    margin-left: 26rem;
+}
+
+#boton2{
+    margin-top: 2rem;
+    width: 15rem;
+    padding: 1rem;
+    border-radius: 1rem; 
+    background-color: #DA6B33;
+    border-color: #DA6B33;
+    cursor: pointer;
+}
+
+
